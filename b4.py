@@ -1,5 +1,5 @@
 st=input("Enter a character")
 if(st.isalpha()):
-  print (st+" is a  alphabets")
+  print (st+" is a  alphabet")
 else:
-  print (st+" is  not a  alphabets")
+  print (st+" is  not a  alphabet")
