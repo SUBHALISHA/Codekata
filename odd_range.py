@@ -8,12 +8,12 @@ else:
   i=-1
   j=st+1
 if(i==1):
-  print("The even numbers are:")
+  print("The odd numbers are:")
   while j<=dt:
     print(j)
     j=j+2
 else:
-    print("The even numbers are:")
+    print("The odd numbers are:")
     while j<=dt:
       print(j)
       j=j+2
