@@ -1,0 +1,11 @@
+num1=input("Enter number of elements in the series:")
+f=0
+s=1
+print("The fibanocci series is")
+print f
+print s
+for i in range (2,num1):
+    t=f+s
+    f=s
+    s=t
+    print t
